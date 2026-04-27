@@ -1,0 +1,24 @@
+/*<!-- ================= HERO ================= -->*/
+@media (max-width: 768px) {
+  .hero-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-text h1 {
+    font-size: 42px;
+  }
+
+  .hero-image img {
+    width: 300px;
+    transform: none;
+  }
+}
+
+/*<!-- ================= PRODUCT ================= -->*/
+@media (max-width: 768px) {
+    .product-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+}

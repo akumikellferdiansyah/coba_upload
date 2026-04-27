@@ -1,0 +1,3 @@
+Jika mau mengganti gambar produk, masukkan foto produk yang diinginkan ke dalam folder img, lalu ubah nama file menjadi produk_tahu_01 (misalnya: ptahu_goreng.png). 
+Setelah itu ganti pada bagian <img src="../img/produk_tahu.png" alt="produk_tahu"> menjadi <img src="../img/tahu_goreng.png" alt="produk_tahu">. 
+Pastikan nama file dan formatnya sesuai agar gambar dapat tampil dengan benar di website.
